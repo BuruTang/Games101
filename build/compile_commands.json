@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/ComputerGraphics/Assignment2/assign2/build",
+  "command": "D:/MinGW/mingw64/bin/g++.exe   @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.obj -c E:/ComputerGraphics/Assignment2/assign2/main.cpp",
+  "file": "E:/ComputerGraphics/Assignment2/assign2/main.cpp"
+},
+{
+  "directory": "E:/ComputerGraphics/Assignment2/assign2/build",
+  "command": "D:/MinGW/mingw64/bin/g++.exe   @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj -c E:/ComputerGraphics/Assignment2/assign2/rasterizer.cpp",
+  "file": "E:/ComputerGraphics/Assignment2/assign2/rasterizer.cpp"
+},
+{
+  "directory": "E:/ComputerGraphics/Assignment2/assign2/build",
+  "command": "D:/MinGW/mingw64/bin/g++.exe   @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.obj -c E:/ComputerGraphics/Assignment2/assign2/Triangle.cpp",
+  "file": "E:/ComputerGraphics/Assignment2/assign2/Triangle.cpp"
+}
+]
